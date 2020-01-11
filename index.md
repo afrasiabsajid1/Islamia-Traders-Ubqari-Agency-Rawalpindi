@@ -5,12 +5,29 @@
 </p>
 </br>
 
-<img width="500px" height="600px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%201.png" />
-<img width="500px" height="600px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%202.png" />
-<img width="500px" height="600px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%203.png" />
+<img width="400px" height="500px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%201.png" />
+<img width="400px" height="500px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%202.png" />
+<img width="400px" height="500px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%203.png" />
+<img width="400px" height="500px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%204.png" />
+<img width="400px" height="500px" src = "https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%205.png" />
+<img width="400px" height="500px" src ="https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/Google%20Pixel%203%206.png" />
+
+
 </br>
-<button><a href="https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/app-debug.apk" download="Islamia Traders Apk">Download</a>
+<button><a href="https://github.com/afrasiabsajid1/Islamia-Traders-Ubqari-Agency-Rawalpindi/blob/master/app-debug.apk" download="Islamia Traders Apk">Download Apk</a>
 </button>
+
+  
+
+<h3>How to Install</h3>
+<ol>
+  <li>Install Islamia Traders Ubqari Agency Rawalpindi App by siply downloading the app-debug apk file</li>
+  <li>After downloading APK File Goto Security</li>
+  <li>Goto Advance Settings</li>
+  <li> Enable Unknown sources</li>
+  <li>After enabling the unknown resources you're ready to install now find the APK where it was downloaded and click and install</li>
+</ol>  
+
 <p> <h3>Location:</h3> Islamia Traders Near Service Shoes Shop Bhoar Bazar Rawalpindi</p>
 </br>
 
